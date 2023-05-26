@@ -2,27 +2,27 @@
     "videos": [
         {
             "id": 1,
-            "titulo": "O labirinto do Logcat",
+            "titulo": "Tudo em Todo Lugar ao Mesmo Tempo",
             "capa": "https://br.web.img2.acsta.net/pictures/22/05/16/17/59/5165498.jpg",
-            "link": "https://www.youtube.com/embed/ypvGqZGJBls"
+            "link": "https://www.youtube.com/watch?v=kULcXm9V7aY"
         },
         {
             "id": 2,
-            "titulo": "Um componente no espaço",
-            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img1.png",
-            "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ"
+            "titulo": "Ted Lasso",
+            "capa": "https://m.media-amazon.com/images/M/MV5BMTdmZjBjZjQtY2JiNS00Y2ZlLTg2NzgtMjUzMGY2OTVmOWJiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",
+            "link": "https://www.youtube.com/watch?v=3u7EIiohs6U"
         },
         {
             "id": 3,
-            "titulo": "O poderoso JavaScript",
-            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img4.png",
-            "link": "https://www.youtube.com/embed/N1BSG02z-Mw"
+            "titulo": "A Origem",
+            "capa": "https://musicart.xboxlive.com/7/e63b1100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
+            "link": "https://www.youtube.com/watch?v=R_VX0e0PX90"
         },
         {
             "id": 4,
-            "titulo": "Dart, o Caçador de Andróides",
-            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
-            "link": "https://www.youtube.com/embed/LLmBWjF6F8M"
+            "titulo": "Im not Okay With This",
+            "capa": "https://m.media-amazon.com/images/M/MV5BMWM5YzhmNGMtZTI4Ny00MGM4LThkYjAtMDIyMTEwNTQyZmQ1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+            "link": "https://www.youtube.com/watch?v=aqy6xXEvWzc"
         }
     ]
 
